@@ -36,6 +36,11 @@ button{
     border: none;
 }
 
+.wrapper{
+    min-width: 100%;
+    overflow: hidden;
+}
+
 .header.header--fixed{
     position: fixed;
     top: 0;
